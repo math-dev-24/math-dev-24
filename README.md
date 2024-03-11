@@ -3,6 +3,11 @@
 I'm french developper ! 
 Love sport : Run, Crossfit, Bike, Hike, ...
 
+### favorite : 
+![typeScript](https://github.com/math-dev-24/math-dev-24/blob/main/asset/ts_48.png)
+![vueJs](https://github.com/math-dev-24/math-dev-24/blob/main/asset/vue_48.png)
+![nuxt](https://github.com/math-dev-24/math-dev-24/blob/main/asset/nuxt_48.png)
+
 ### Contact me :
 [![ici](https://github.com/math-dev-24/math-dev-24/blob/main/asset/email_48.png)](mailto:mathieu.busse24@gmail.com?subject=contact)
 [![image](https://github.com/math-dev-24/math-dev-24/blob/main/asset/web_64.png)](https://mathieu-busse.dev/)
