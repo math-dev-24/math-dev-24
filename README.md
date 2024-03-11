@@ -5,7 +5,7 @@ Love sport : Run, Crossfit, Bike, Hike, ...
 
 ### Contact me :
 [![ici](https://img.icons8.com/?size=80&id=68248&format=png)](mailto:mathieu.busse24@gmail.com?subject=contact)
-[![image](https://img.icons8.com/?size=64&id=53871&format=png)](https://mathieu-busse.dev/){:target="_blank"}
+[![image](https://img.icons8.com/?size=64&id=53871&format=png)](https://mathieu-busse.dev/)
 
 
 
