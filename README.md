@@ -4,9 +4,9 @@ I'm french developper !
 Love sport : Run, Crossfit, Bike, Hike, ...
 
 ### Contact me :
-[![ici](https://img.icons8.com/?size=80&id=68248&format=png)](mailto:mathieu.busse24@gmail.com?subject=contact)
-[![image](https://img.icons8.com/?size=64&id=53871&format=png)](https://mathieu-busse.dev/)
-[![imageLinkedin](https://img.icons8.com/?size=48&id=13930&format=png)](www.linkedin.com/in/math-froid-dev)
+[![ici](https://github.com/math-dev-24/math-dev-24/blob/main/asset/email_48.png)](mailto:mathieu.busse24@gmail.com?subject=contact)
+[![image](https://github.com/math-dev-24/math-dev-24/blob/main/asset/web_64.png)](https://mathieu-busse.dev/)
+[![imageLinkedin](https://github.com/math-dev-24/math-dev-24/blob/main/asset/link_48.png)](www.linkedin.com/in/math-froid-dev)
 
 
 ### Stat langage :
