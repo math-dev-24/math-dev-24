@@ -1,7 +1,11 @@
 # Hi there 👋
 
-I'm french developper ! 
-Love sport : Run, Crossfit, Bike, Hike, ...
+My name is Mathieu. I'm a French developer.
+
+🥇 Love sport : Run, Crossfit, Bike, Hike, ...
+🖥️ Love code
+<br/>
+    and no-code apps (make, coda, notion, fibery, airtable, softr, weweb, ...) 
 
 ### favorite : 
 ![typeScript](https://github.com/math-dev-24/math-dev-24/blob/main/asset/ts_48.png)
