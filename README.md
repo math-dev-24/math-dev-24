@@ -4,7 +4,10 @@ I'm french developper !
 Love sport : Run, Crossfit, Bike, Hike, ...
 
 ### Contact me :
-[![ici](https://img.icons8.com/?size=64&id=HyjRWfleuVje&format=png)](mailto:mathieu.busse24@gmail.com?subject=contact)
+[![ici]([https://img.icons8.com/?size=64&id=HyjRWfleuVje&format=png](https://img.icons8.com/?size=80&id=68415&format=png))](mailto:mathieu.busse24@gmail.com?subject=contact)
+<a target="_blank" href="https://mathieu-busse.dev/">
+  ![image](https://img.icons8.com/?size=64&id=53871&format=png)
+</a>
 
 
 ### Stat langage :
