@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24)](https://github.com/math-dev-24/github-readme-stats)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true)
 <!--
 **math-dev-24/math-dev-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
