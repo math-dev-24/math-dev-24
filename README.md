@@ -3,11 +3,12 @@
 My name is Mathieu. I'm a French developer.
 
 🥇 Love sport : Run, Crossfit, Bike, Hike, ...
+<br/>
 🖥️ Love code
 <br/>
-    and no-code apps (make, coda, notion, fibery, airtable, softr, weweb, ...) 
-
-### favorite : 
+💻 & Love no-code apps (make, coda, notion, fibery, airtable, softr, weweb, ...) 
+<br/>
+###
 ![typeScript](https://github.com/math-dev-24/math-dev-24/blob/main/asset/ts_48.png)
 ![vueJs](https://github.com/math-dev-24/math-dev-24/blob/main/asset/vue_48.png)
 ![nuxt](https://github.com/math-dev-24/math-dev-24/blob/main/asset/nuxt_48.png)
