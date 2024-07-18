@@ -15,9 +15,5 @@ My name is Mathieu. I'm a French developer.
 
 ### Contact me :
 [![ici](https://github.com/math-dev-24/math-dev-24/blob/main/asset/email_48.png)](mailto:mathieu.busse24@gmail.com?subject=contact)
-[![image](https://github.com/math-dev-24/math-dev-24/blob/main/asset/web_64.png)](https://mathieu-busse.dev/)
+[![image](https://github.com/math-dev-24/math-dev-24/blob/main/asset/web_64.png)](https://mathieu-busse.dev/contact)
 [![imageLinkedin](https://github.com/math-dev-24/math-dev-24/blob/main/asset/link_48.png)](www.linkedin.com/in/math-froid-dev)
-
-
-### Stat langage :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-dev-24&size_weight=0.5&count_weight=0.5&layout=donut&theme=onedark&langs_count=10)
