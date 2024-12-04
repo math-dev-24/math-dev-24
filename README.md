@@ -19,7 +19,7 @@ My name is Mathieu. I'm a French developer.
 [![imageLinkedin](https://github.com/math-dev-24/math-dev-24/blob/main/asset/link_48.png)](www.linkedin.com/in/math-froid-dev)
 
 ### Top language : 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-dev-24&layout=donut&theme=merko&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-dev-24&layout=donut&theme=merko)
 
 ### Github Stat 
 
