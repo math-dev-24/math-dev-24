@@ -21,8 +21,8 @@ My name is Mathieu. I'm a French developer.
 
 ### Github Stat 
 
-![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true)
+![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true&theme=merko)
 
 ### Best repositories
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=math-dev-24&repo=qrcode-generator-vue)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=math-dev-24&repo=qrcode-generator-vue&theme=gruvbox)
