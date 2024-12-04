@@ -21,4 +21,8 @@ My name is Mathieu. I'm a French developer.
 
 ### Github Stat 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true)]
+![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true)
+
+### Best repositories
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=math-dev-24&repo=qrcode-generator-vue)
