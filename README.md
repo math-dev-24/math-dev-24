@@ -21,4 +21,4 @@ My name is Mathieu. I'm a French developer.
 
 ### Github Stat 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true)]
