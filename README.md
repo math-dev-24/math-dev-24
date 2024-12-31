@@ -31,7 +31,7 @@ My name is Mathieu. I'm a French developer.
 <br />
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=math-dev-24&repo=challenge-biblio&theme=gruvbox)
 <br />
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=math-dev-24&repo=missionSpatialMars&theme=gruvbox)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=math-dev-24&repo=tetris-rust&theme=gruvbox)
 <br />
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=math-dev-24&repo=challenge_memento&theme=gruvbox)
  
