@@ -12,6 +12,8 @@ My name is Mathieu. I'm a French developer.
 ![typeScript](https://github.com/math-dev-24/math-dev-24/blob/main/asset/ts_48.png)
 ![vueJs](https://github.com/math-dev-24/math-dev-24/blob/main/asset/vue_48.png)
 ![nuxt](https://github.com/math-dev-24/math-dev-24/blob/main/asset/nuxt_48.png)
+![python](https://github.com/math-dev-24/math-dev-24/blob/main/asset/icons8-python-48.png)
+![rust](https://github.com/math-dev-24/math-dev-24/blob/main/asset/icons8-rust-48.png)
 
 ### Contact me :
 [![ici](https://github.com/math-dev-24/math-dev-24/blob/main/asset/email_48.png)](mailto:mathieu.busse24@gmail.com?subject=contact)
