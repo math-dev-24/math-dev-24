@@ -1,13 +1,21 @@
 # Hi there 👋
 
-My name is Mathieu. I'm a French developer.
+I'm **Mathieu**, a French developer passionate about building things that make life easier and more fun.
 
-🥇 I love/practice : Run, Crossfit, Bike, Hike, ...
-<br/>
-🖥️ Love code
-<br/>
-💻 & Love no-code apps (make, coda, notion, fibery, airtable, softr, weweb, ...) 
-<br/>
+## 👨‍💻 What I do
+
+- 💻 I love to **code**, especially when solving real-world problems.
+- ⚙️ I also explore and build with **no-code tools** like [n8n](https://n8n.io), [Coda](https://coda.io), [Notion](https://www.notion.so), [Fibery](https://fibery.io), and more.
+
+## 🏃‍♂️ Outside of tech
+
+When I’m not coding, I’m probably:
+- Running 🏃‍♂️
+- Doing CrossFit 💪
+- Biking 🚴‍♂️
+- Hiking in nature 🏞️
+
+
 ###
 ![typeScript](https://github.com/math-dev-24/math-dev-24/blob/main/asset/ts_48.png)
 ![vueJs](https://github.com/math-dev-24/math-dev-24/blob/main/asset/vue_48.png)
