@@ -30,13 +30,8 @@ When I’m not coding, I’m probably:
 [![imageLinkedin](https://github.com/math-dev-24/math-dev-24/blob/main/asset/link_48.png)](www.linkedin.com/in/math-froid-dev)
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-dev-24&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=math-dev-24&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=math-dev-24&theme=radical&no-frame=true&row=1)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=math-dev-24&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=math-dev-24&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-dev-24&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=math-dev-24&theme=react-dark)
