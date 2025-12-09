@@ -55,8 +55,6 @@ When I'm not building software, you'll find me:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-dev-24&theme=radical" alt="Most Commit Language" height="180"/>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=math-dev-24&theme=radical)
-
 </div>
 
 ---
