@@ -35,3 +35,8 @@ When I’m not coding, I’m probably:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=math-dev-24&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-dev-24&theme=radical)
 
+![Metrics](https://metrics.lecoq.io/math-dev-24?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;No-Code+Enthusiast;Outdoor+Adventurer)](https://git.io/typing-svg)
+
+![Snake animation](https://github.com/math-dev-24/math-dev-24/blob/output/github-contribution-grid-snake.svg)
