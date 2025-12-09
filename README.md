@@ -33,5 +33,5 @@ When I’m not coding, I’m probably:
 
 ## 📊 GitHub Activity
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=math-dev-24&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=math-dev-24&theme=dark&hide_border=true)](https://git.io/streak-stats)]
 </div>
