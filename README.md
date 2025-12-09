@@ -24,6 +24,11 @@ When I’m not coding, I’m probably:
 ![python](https://github.com/math-dev-24/math-dev-24/blob/main/asset/icons8-python-48.png)
 ![rust](https://github.com/math-dev-24/math-dev-24/blob/main/asset/icons8-rust-48.png)
 
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ---
 
 ### 📬 Contact me
@@ -34,4 +39,7 @@ When I’m not coding, I’m probably:
 ## 📊 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-dev-24&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=math-dev-24&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=math-dev-24&theme=radical&no-frame=true&row=1)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=math-dev-24&theme=react-dark)
