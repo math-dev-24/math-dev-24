@@ -31,8 +31,6 @@
    └─ Experimenting with n8n, Coda, Notion, Fibery for rapid prototyping
 ```
 
-**Tools I Love:** [n8n](https://n8n.io) • [Coda](https://coda.io) • [Notion](https://www.notion.so) • [Fibery](https://fibery.io)
-
 ---
 
 ## 🏃‍♂️ Beyond the Code
