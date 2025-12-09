@@ -32,6 +32,6 @@ When I’m not coding, I’m probably:
 [![imageLinkedin](https://github.com/math-dev-24/math-dev-24/blob/main/asset/link_48.png)](www.linkedin.com/in/math-froid-dev)
 
 ## 📊 GitHub Activity
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=math-dev-24&theme=dark&hide_border=true)
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-dev-24&layout=compact&theme=radical)
+
