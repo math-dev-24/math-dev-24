@@ -10,15 +10,11 @@ I'm **Mathieu**, a French developer passionate about building things that make l
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=500&lines=Full+Stack+Developer;No-Code+Builder;Outdoor+Adventurer;Automation)](https://git.io/typing-svg)
 
 
-## 🏃‍♂️ Outside of tech
+## 📊 GitHub Activity
 
-When I’m not coding, I’m probably:
-- Running 🏃‍♂️
-- Doing CrossFit 💪
-- Biking 🚴‍♂️
-- Hiking in nature 🏞️
-
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=math-dev-24&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=math-dev-24&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-dev-24&theme=radical)
 
 ## 🧠 Languages & Tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,9 +28,12 @@ When I’m not coding, I’m probably:
 [![image](https://github.com/math-dev-24/math-dev-24/blob/main/asset/web_64.png)](https://mathieu-busse.dev/contact)
 [![imageLinkedin](https://github.com/math-dev-24/math-dev-24/blob/main/asset/link_48.png)](www.linkedin.com/in/math-froid-dev)
 
-## 📊 GitHub Activity
+## 🏃‍♂️ Outside of tech
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=math-dev-24&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=math-dev-24&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-dev-24&theme=radical)
+When I’m not coding, I’m probably:
+- Running 🏃‍♂️
+- Doing CrossFit 💪
+- Biking 🚴‍♂️
+- Hiking in nature 🏞️
 
+---
