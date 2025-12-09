@@ -39,4 +39,4 @@ When I’m not coding, I’m probably:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-dev-24&theme=radical)
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/math-dev-24/count.svg)
