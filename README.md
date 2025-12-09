@@ -7,7 +7,7 @@ I'm **Mathieu**, a French developer passionate about building things that make l
 - 💻 I love crafting solutions that solve real-world problems through clean, efficient code.
 - ⚙️ I also experiment with powerful no-code tools to prototype and automate like [n8n](https://n8n.io), [Coda](https://coda.io), [Notion](https://www.notion.so), [Fibery](https://fibery.io), and more.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;No-Code+Enthusiast;Outdoor+Adventurer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=500&lines=Full+Stack+Developer;No-Code+Builder;Outdoor+Adventurer;Automation)](https://git.io/typing-svg)
 
 
 ## 🏃‍♂️ Outside of tech
@@ -38,5 +38,3 @@ When I’m not coding, I’m probably:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=math-dev-24&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-dev-24&theme=radical)
 
-
-![Visitor Count](https://profile-counter.glitch.me/math-dev-24/count.svg)
