@@ -34,7 +34,7 @@ When I’m not coding, I’m probably:
 ## 📊 GitHub Stats
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-dev-24&layout=donut&theme=merko)
+![Top Langs](https://github-readme-streak-stats-eight.vercel.app?username=math-dev-24&layout=donut&theme=merko)
 
 ### General Stats 
 ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=math-dev-24&show_icons=true&theme=merko)
